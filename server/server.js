@@ -10,7 +10,10 @@ const app = express();
 
 // Middleware
 app.use(cors({
-  origin: 'http://localhost:5173', // Frontend URL
+  origin: [
+    'http://localhost:5173',
+    'https://ai-resume-analyser-hazel-eight.vercel.app'
+  ],
   credentials: true
 }));
 app.use(express.json());
