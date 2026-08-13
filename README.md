@@ -1,4 +1,4 @@
-<img width="1741" height="866" alt="Screenshot 2026-08-13 165849" src="https://github.com/user-attachments/assets/0907278d-5674-423d-babd-5c24c8f02a65" /># 🤖 AI Resume Analyzer & Job Recommender
+# 🤖 AI Resume Analyzer & Job Recommender
 
 [![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue.svg)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind_CSS-38B2AC.svg)](https://tailwindcss.com/)
