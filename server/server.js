@@ -12,6 +12,7 @@ const app = express();
 app.use(cors({
   origin: [
     'http://localhost:5173',
+    'https://ai-resume-analyser-r31n.vercel.app',
     'https://ai-resume-analyser-hazel-eight.vercel.app'
   ],
   credentials: true
